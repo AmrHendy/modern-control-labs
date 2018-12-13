@@ -1,0 +1,13 @@
+[Pass]
+	PassSet:
+		PassFlag	TYPE_BOOL	FALSE
+[App]
+	Project:
+		CpuType	TYPE_STRING	"FX1S"
+		ProjectComment	TYPE_STRING	"ElevatorLab3"
+		AutoSave	TYPE_BOOL	FALSE
+[Prt]
+[Cmnt]
+	CommInfo:
+		CommCmntNo	TYPE_WORD10	0
+		CmntLength	TYPE_WORD10	32
