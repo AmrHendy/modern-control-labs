@@ -1,0 +1,2214 @@
+--------------- Control ----------------
+I/O Monitor
+
+--------------- Comments ---------------
+True
+
+----------- Rung 0 Controls ------------
+LNKLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 0 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 0 Indexes ------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 0 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 1 Controls ------------
+NOCLNKLNKNOCLNKLNKLNKLNKLNKBL1
+NONNONNONNONNONNONNONNONNONBBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 1 Types -------------
+  9  0  0  1  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 1 Indexes ------------
+  1  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 1 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 2 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 2 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 2 Indexes ------------
+  1  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 2 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 2 ---------------
+the above three rungs
+ for the 5 sec bottle
+
+----------- Rung 3 Controls ------------
+LNKLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 3 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 3 Indexes ------------
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 3 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 4 Controls ------------
+NOCLNKNCCLNKNOCLNKLNKLNKLNKBL1
+NONNONNONNONNONNONNONNONNONBBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 4 Types -------------
+  9  0  9  0  1  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 4 Indexes ------------
+  2  0  1  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 4 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 4 ---------------
+if i want to shift an
+d want to put bottle 
+at the same time, the
+n i have to put thr b
+ottle first, then mov
+e.
+
+----------- Rung 5 Controls ------------
+NOCLNKNCCLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 5 Types -------------
+  9  0  9  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 5 Indexes ------------
+  2  0  1  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 5 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 5 ---------------
+same as above, and 3 
+above rungs for each 
+2 sec move
+
+----------- Rung 6 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 6 Types -------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 6 Indexes ------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 6 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 6 ---------------
+Bin of the right conv
+
+----------- Rung 7 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 7 Types -------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 7 Indexes ------------
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 7 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 7 ---------------
+Bout of the right con
+v
+
+----------- Rung 8 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 8 Types -------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 8 Indexes ------------
+  2  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 8 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 8 ---------------
+Bin of the middle con
+v
+
+----------- Rung 9 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 9 Types -------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 9 Indexes ------------
+  3  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 9 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 9 ---------------
+Bout of the middle co
+nv
+
+----------- Rung 10 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 10 Types -------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 10 Indexes ------------
+  4  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 10 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 10 --------------
+Bin of the left conv
+
+----------- Rung 11 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 11 Types -------------
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 11 Indexes ------------
+  5  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 11 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 11 --------------
+Bout of the left conv
+, the above are memor
+y elements to know on
+ which conv currently
+ working.
+
+----------- Rung 12 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONOUT
+
+------------ Rung 12 Types -------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 12 Indexes ------------
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  7
+
+------------ Rung 12 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+-------------- Comment 12 --------------
+when F0 is on, then w
+e have to run on conv
+ 1 which means that r
+ight conv are ready t
+o work
+
+----------- Rung 13 Controls -----------
+NOCNCCLNKLNKLNKLNKLNKLNKLNKOUT
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONOUT
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 13 Types -------------
+  2  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 13 Indexes ------------
+  0  1  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  7
+
+------------ Rung 13 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+-------------- Comment 13 --------------
+middle is free and th
+e right is busy
+
+----------- Rung 14 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONOUT
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 14 Types -------------
+  2  2  2  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 14 Indexes ------------
+  0  1  2  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  7
+
+------------ Rung 14 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+-------------- Comment 14 --------------
+left is free, right a
+nd middle are busy, 3
+ above rungs are used
+ to control the solin
+oids of the gate.
+
+----------- Rung 15 Controls -----------
+LNKNCCLNKLNKLNKLNKLNKLNKLNKOUT
+LNKNCCLNKNONNONNONNONNONNONNON
+LNKNCCLNKNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 15 Types -------------
+  0  2  0  0  0  0  0  0  0  0
+  0  2  0  0  0  0  0  0  0  0
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 15 Indexes ------------
+  0  0  0  0  0  0  0  0  0  0
+  0  1  0  0  0  0  0  0  0  0
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 15 Links -------------
+STATHRTHRBRATHRTHRTHRTHRTHRTHRFIN
+STATHRTHRFINNONNONNONNONNONNONNON
+STATHRTHRRIGNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 15 --------------
+the conv main moter, 
+which works only if a
+t least one gate is f
+ree.
+
+----------- Rung 16 Controls -----------
+LNKNOCLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 16 Types -------------
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 16 Indexes ------------
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 16 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 16 --------------
+bottle is in the righ
+t conv, and now movin
+g to reach the tap.
+
+----------- Rung 17 Controls -----------
+NOCNOCLNKNCCLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 17 Types -------------
+  9  0  0  4  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 17 Indexes ------------
+  3 12  0  5  0  0  0  0  0  9
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 17 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 17 --------------
+latch the input of th
+e product bit1
+
+----------- Rung 18 Controls -----------
+NOCNOCLNKNCCLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 18 Types -------------
+  9  0  0  4  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 18 Indexes ------------
+  3 11  0  5  0  0  0  0  0  8
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 18 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 18 --------------
+latch the input of th
+e product bit0
+
+----------- Rung 19 Controls -----------
+NOCNCCNOCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 19 Types -------------
+  9  4  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 19 Indexes ------------
+  3  5  9  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 19 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 19 --------------
+latch the input of th
+e size bit0
+
+----------- Rung 20 Controls -----------
+NOCNCCNOCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 20 Types -------------
+  9  4  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 20 Indexes ------------
+  3  5 10  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 20 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 20 --------------
+latch the input of th
+e size bit1
+
+----------- Rung 21 Controls -----------
+NOCNCCLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 21 Types -------------
+  9  4  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 21 Indexes ------------
+  3  5  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 21 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 21 --------------
+set this flag to one 
+to prevent reading an
+other size from other
+ reads
+
+----------- Rung 22 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 22 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 22 Indexes ------------
+  3  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 22 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 22 --------------
+the timer of conv in 
+the right to counter.
+
+----------- Rung 23 Controls -----------
+NOCLNKNCCNCCLNKLNKLNKLNKLNKCUP
+NONNONNONNONNONNONNONNONNONCBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 23 Types -------------
+  9  0  4  4  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 23 Indexes ------------
+  4  0  3  4  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 23 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 23 --------------
+counter to count 3 se
+conds
+
+----------- Rung 24 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 24 Types -------------
+  7  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 24 Indexes ------------
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 24 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 24 --------------
+counter of size 1 is 
+up, to say finish, th
+en the timeout flag f
+or right conv is up
+
+----------- Rung 25 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 25 Types -------------
+  7  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 25 Indexes ------------
+  1  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 25 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 25 --------------
+Reset the 3 sec count
+er once it reaches
+
+----------- Rung 26 Controls -----------
+NOCLNKNOCLNKLNKLNKLNKLNKLNKCUP
+NONNONNOCLNKNONNONNONNONNONCBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 26 Types -------------
+  9  0  4  0  0  0  0  0  0  0
+  0  0  4  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 26 Indexes ------------
+  4  0  3  0  0  0  0  0  0  2
+  0  0  4  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 26 Links -------------
+STATHRBRATHRBRATHRTHRTHRTHRBRAFIN
+NONNONLEFTHRRIGNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 26 --------------
+counter to count 5 se
+conds
+
+----------- Rung 27 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 27 Types -------------
+  7  4  4  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 27 Indexes ------------
+  2  3  4  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 27 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 27 --------------
+counter of size 2 is 
+up, to say finish, th
+en the timeout flag f
+or right conv is up
+
+----------- Rung 28 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 28 Types -------------
+  7  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 28 Indexes ------------
+  2  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 28 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 28 --------------
+set the flag for 10 s
+ec counter = 1
+
+----------- Rung 29 Controls -----------
+NCCLNKNOCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 29 Types -------------
+  7  0  4  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 29 Indexes ------------
+  2  0  1  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 29 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 29 --------------
+set the flag for 10 s
+ec counter = 1, to sa
+y that we are in the 
+second 5 seconds.
+
+----------- Rung 30 Controls -----------
+NOCLNKNOCLNKNOCNCCLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 30 Types -------------
+  7  0  4  0  4  4  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 30 Indexes ------------
+  2  0  2  0  4  3  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 30 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 30 --------------
+Counter has reached i
+ts 10 seconds, and th
+e type of size 2
+
+----------- Rung 31 Controls -----------
+NOCLNKNOCLNKLNKLNKLNKLNKLNKRES
+NOCLNKNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 31 Types -------------
+  4  0  7  0  0  0  0  0  0  1
+  4  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 31 Indexes ------------
+  0  0  2  0  0  0  0  0  0  2
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 31 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 31 --------------
+reset the counter in 
+two conditions, first
+ if the timeout happe
+ned (F3), or the (F4)
+, which is the temp f
+lag1 is set to restar
+t the counter to coun
+t until 5 again.
+
+----------- Rung 32 Controls -----------
+NOCLNKLNKNCCLNKLNKLNKLNKLNKOUT
+NONNONLNKNOCLNKNONNONNONNONNON
+NONNONLNKNOCLNKNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 32 Types -------------
+  2  0  0  9  0  0  0  0  0  0
+  0  0  0  4  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 32 Indexes ------------
+  0  0  0  3  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  6  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 32 Links -------------
+STATHRBRATHRTHRBRATHRTHRTHRTHRFIN
+NONNONSTATHRTHRFINNONNONNONNONNON
+NONNONLEFTHRTHRRIGNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 32 --------------
+we move the right con
+v when there is bottl
+e inside, and ( timer
+ of first sec isn't 1
+, or timeout of the s
+ize happened, or the 
+sensor say go)
+
+----------- Rung 33 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 33 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 33 Indexes ------------
+  4  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 33 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 33 --------------
+update the timer for 
+another 1 seconed
+
+----------- Rung 34 Controls -----------
+NOCNOCLNKLNKLNKLNKLNKLNKLNKOUT
+LNKNCCNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 34 Types -------------
+  1  2  0  0  0  0  0  0  0  0
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 34 Indexes ------------
+  1  0  0  0  0  0  0  0  0 14
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 34 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 34 --------------
+while motor is workin
+g, then keep the volv
+e closed..
+
+----------- Rung 35 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 35 Types -------------
+  2  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 35 Indexes ------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  8
+
+------------ Rung 35 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+-------------- Comment 35 --------------
+when finished, we hav
+e to return to the in
+tial state. the above
+ rungs are for the ri
+ght conv. from rung 1
+6 to rung 31.
+
+----------- Rung 36 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 36 Types -------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+
+----------- Rung 36 Indexes ------------
+  0  0  0  0  0  0  0  0  0  9
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  5
+
+------------ Rung 36 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+-------------- Comment 36 --------------
+ the above rungs are 
+for the right conv. f
+rom rung 16 to rung 3
+1.-------------------
+---------------------
+---------------------
+---------------------
+---------------------
+-------------
+
+----------- Rung 37 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 37 Types -------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 37 Indexes ------------
+  1  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 37 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 37 --------------
+start of middle conv,
+ bottle is in the mid
+dle conv, and now mov
+ing to reach the tap.
+
+----------- Rung 38 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 38 Types -------------
+  9  0  5  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 38 Indexes ------------
+  5 11  5  0  0  0  0  0  0 10
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 38 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 38 --------------
+latch the input of th
+e product bit0
+
+----------- Rung 39 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 39 Types -------------
+  9  0  5  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 39 Indexes ------------
+  5 12  5  0  0  0  0  0  0 11
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 39 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 39 --------------
+latch the input of th
+e product bit1
+
+----------- Rung 40 Controls -----------
+NOCNCCNOCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 40 Types -------------
+  9  5  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 40 Indexes ------------
+  5  5  9  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 40 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 40 --------------
+latch the input of th
+e size bit0
+
+----------- Rung 41 Controls -----------
+NOCNCCNOCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 41 Types -------------
+  9  5  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 41 Indexes ------------
+  5  5 10  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 41 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 41 --------------
+latch the input of th
+e size bit1
+
+----------- Rung 42 Controls -----------
+NOCNCCLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 42 Types -------------
+  9  5  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 42 Indexes ------------
+  5  5  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 42 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 42 --------------
+prevent reading input
+s from codereader aga
+in
+
+----------- Rung 43 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 43 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 43 Indexes ------------
+  5  0  0  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 43 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 43 --------------
+the timer of conv in 
+the middle to counter
+.
+
+----------- Rung 44 Controls -----------
+NOCLNKNCCNCCLNKLNKLNKLNKLNKCUP
+NONNONNONNONNONNONNONNONNONCBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 44 Types -------------
+  9  0  5  5  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 44 Indexes ------------
+  6  0  3  4  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 44 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 44 --------------
+counting 3 second
+
+----------- Rung 45 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 45 Types -------------
+  7  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 45 Indexes ------------
+  3  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 45 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 45 --------------
+counter of size1 fini
+shed, timeout
+
+----------- Rung 46 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 46 Types -------------
+  7  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 46 Indexes ------------
+  3  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 46 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 46 --------------
+reset the counter of 
+3 second, once it rea
+ched the end.
+
+----------- Rung 47 Controls -----------
+NOCLNKNOCLNKLNKLNKLNKLNKLNKCUP
+NONLNKNOCLNKNONNONNONNONNONCBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 47 Types -------------
+  9  0  5  0  0  0  0  0  0  0
+  0  0  5  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 47 Indexes ------------
+  6  0  3  0  0  0  0  0  0  4
+  0  0  4  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 47 Links -------------
+STABRATHRTHRBRATHRTHRTHRTHRBRAFIN
+NONLEFTHRTHRRIGNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 47 --------------
+counter for 5 seconds
+
+----------- Rung 48 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 48 Types -------------
+  7  5  5  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 48 Indexes ------------
+  4  3  4  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 48 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 48 --------------
+couter of size 2 is u
+p
+
+----------- Rung 49 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 49 Types -------------
+  7  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 49 Indexes ------------
+  4  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 49 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 49 --------------
+set the tempflag1 to 
+1 which means we reac
+hed the first 5 secon
+ds
+
+----------- Rung 50 Controls -----------
+NCCNOCLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 50 Types -------------
+  7  5  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 50 Indexes ------------
+  4  1  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 50 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 50 --------------
+we are now counting s
+econd 5 seconds
+
+----------- Rung 51 Controls -----------
+NOCLNKNOCNOCNCCLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 51 Types -------------
+  7  0  5  5  5  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 51 Indexes ------------
+  4  0  2  4  3  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 51 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 51 --------------
+counter reached 10 se
+conds, for type 2
+
+----------- Rung 52 Controls -----------
+NOCLNKNOCLNKLNKLNKLNKLNKLNKRES
+NOCLNKNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 52 Types -------------
+  5  0  7  0  0  0  0  0  0  1
+  5  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 52 Indexes ------------
+  0  0  4  0  0  0  0  0  0  4
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 52 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 53 Controls -----------
+NOCLNKLNKNCCLNKLNKLNKLNKLNKOUT
+NONNONLNKNOCLNKNONNONNONNONNON
+NONNONLNKNOCLNKNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 53 Types -------------
+  2  0  0  9  0  0  0  0  0  0
+  0  0  0  5  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 53 Indexes ------------
+  1  0  0  5  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  7  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 53 Links -------------
+STATHRBRATHRTHRBRATHRTHRTHRTHRFIN
+NONNONSTATHRTHRFINNONNONNONNONNON
+NONNONLEFTHRTHRRIGNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 54 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 54 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 54 Indexes ------------
+  6  0  0  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 54 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 55 Controls -----------
+NOCNOCLNKLNKLNKLNKLNKLNKLNKOUT
+LNKNCCLNKNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 55 Types -------------
+  1  2  0  0  0  0  0  0  0  0
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 55 Indexes ------------
+  2  1  0  0  0  0  0  0  0 15
+  0  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 55 Links -------------
+STATHRTHRBRATHRTHRTHRTHRTHRTHRFIN
+STATHRTHRRIGNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 56 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 56 Types -------------
+  2  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 56 Indexes ------------
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0 10
+
+------------ Rung 56 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+----------- Rung 57 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 57 Types -------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+
+----------- Rung 57 Indexes ------------
+  1  0  0  0  0  0  0  0  0 11
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  5
+
+------------ Rung 57 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+----------- Rung 58 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 58 Types -------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 58 Indexes ------------
+  2  0  0  0  0  0  0  0  0  7
+  0  0  0  0  0  0  0  0  0  7
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 58 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 59 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 59 Types -------------
+  9  0  6  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 59 Indexes ------------
+  7 11  5  0  0  0  0  0  0 12
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 59 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 60 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 60 Types -------------
+  9  0  6  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 60 Indexes ------------
+  7 12  5  0  0  0  0  0  0 13
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 60 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 61 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 61 Types -------------
+  9  0  6  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 61 Indexes ------------
+  7  9  5  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 61 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 62 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 62 Types -------------
+  9  0  6  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 62 Indexes ------------
+  7 10  5  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 62 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 63 Controls -----------
+NOCNCCLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 63 Types -------------
+  9  6  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 63 Indexes ------------
+  7  5  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 63 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 64 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 64 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 64 Indexes ------------
+  7  0  0  0  0  0  0  0  0  8
+  0  0  0  0  0  0  0  0  0  8
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 64 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 65 Controls -----------
+NOCNCCNCCLNKLNKLNKLNKLNKLNKCUP
+NONNONNONNONNONNONNONNONNONCBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 65 Types -------------
+  9  6  6  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 65 Indexes ------------
+  8  3  4  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 65 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 66 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 66 Types -------------
+  7  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 66 Indexes ------------
+  5  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 66 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 67 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 67 Types -------------
+  7  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 67 Indexes ------------
+  5  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 67 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 68 Controls -----------
+NOCLNKNOCLNKLNKLNKLNKLNKLNKCUP
+NONLNKNOCLNKNONNONNONNONNONCBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 68 Types -------------
+  9  0  6  0  0  0  0  0  0  0
+  0  0  6  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 68 Indexes ------------
+  8  0  3  0  0  0  0  0  0  6
+  0  0  4  0  0  0  0  0  0  6
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 68 Links -------------
+STABRATHRTHRBRATHRTHRTHRTHRBRAFIN
+NONLEFTHRTHRRIGNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 69 Controls -----------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 69 Types -------------
+  7  6  6  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 69 Indexes ------------
+  6  3  4  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 69 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 70 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 70 Types -------------
+  7  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 70 Indexes ------------
+  6  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 70 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 71 Controls -----------
+NCCNOCLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 71 Types -------------
+  7  6  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 71 Indexes ------------
+  6  1  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 71 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 72 Controls -----------
+NOCNOCNOCNCCLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 72 Types -------------
+  7  6  6  6  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 72 Indexes ------------
+  6  2  4  3  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 72 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 73 Controls -----------
+NOCLNKNOCLNKLNKLNKLNKLNKLNKRES
+LNKNOCNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 73 Types -------------
+  6  0  7  0  0  0  0  0  0  1
+  0  6  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 73 Indexes ------------
+  0  0  6  0  0  0  0  0  0  6
+  0  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 73 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 74 Controls -----------
+NOCLNKLNKNCCLNKLNKLNKLNKLNKOUT
+NONNONLNKNOCLNKNONNONNONNONNON
+NONNONLNKNOCLNKNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 74 Types -------------
+  2  0  0  9  0  0  0  0  0  0
+  0  0  0  6  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 74 Indexes ------------
+  2  0  0  7  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  8  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 74 Links -------------
+STATHRBRATHRTHRBRATHRTHRTHRTHRFIN
+NONNONSTATHRTHRFINNONNONNONNONNON
+NONNONLEFTHRTHRRIGNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 75 Controls -----------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKRES
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 75 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 75 Indexes ------------
+  8  0  0  0  0  0  0  0  0  8
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 75 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 76 Controls -----------
+NOCNOCLNKLNKLNKLNKLNKLNKLNKOUT
+LNKNCCLNKNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------ Rung 76 Types -------------
+  1  2  0  0  0  0  0  0  0  1
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 76 Indexes ------------
+  3  2  0  0  0  0  0  0  0  3
+  0  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 76 Links -------------
+STATHRTHRBRATHRTHRTHRTHRTHRTHRFIN
+STATHRTHRRIGNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 77 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 77 Types -------------
+  2  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  0
+
+----------- Rung 77 Indexes ------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0 12
+
+------------ Rung 77 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+----------- Rung 78 Controls -----------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+
+------------ Rung 78 Types -------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  5
+  0  0  0  0  0  0  0  0  0  5
+
+----------- Rung 78 Indexes ------------
+  2  0  0  0  0  0  0  0  0 13
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  5
+
+------------ Rung 78 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+
+-------------- Counter 1 ---------------
+3
+0
+
+-------------- Counter 2 ---------------
+5
+0
+
+-------------- Counter 3 ---------------
+3
+0
+
+-------------- Counter 4 ---------------
+5
+0
+
+-------------- Counter 5 ---------------
+3
+0
+
+-------------- Counter 6 ---------------
+5
+0
+
+--------------- Timer 1 ----------------
+5000
+
+-------------- OnDelay 1 ---------------
+
+--------------- Timer 2 ----------------
+2000
+
+-------------- OnDelay 2 ---------------
+
+--------------- Timer 3 ----------------
+1000
+
+-------------- OnDelay 3 ---------------
+
+--------------- Timer 4 ----------------
+1000
+
+-------------- OnDelay 4 ---------------
+
+--------------- Timer 5 ----------------
+1000
+
+-------------- OnDelay 5 ---------------
+
+--------------- Timer 6 ----------------
+1000
+
+-------------- OnDelay 6 ---------------
+
+--------------- Timer 7 ----------------
+1000
+
+-------------- OnDelay 7 ---------------
+
+--------------- Timer 8 ----------------
+1000
+
+-------------- OnDelay 8 ---------------
+
