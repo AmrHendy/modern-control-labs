@@ -1,0 +1,276 @@
+-------------- Simulation --------------
+Traffic Light
+
+--------------- Control ----------------
+Simulation
+
+--------------- Comments ---------------
+True
+
+----------- Rung 0 Controls ------------
+NOCNCCLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 0 Types -------------
+  1  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 0 Indexes ------------
+  0  1  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 0 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 0 ---------------
+While the red light i
+s on on its own, run 
+a timer.
+
+----------- Rung 1 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 1 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 1 Indexes ------------
+  1  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 1 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 1 ---------------
+When the timer is don
+e, latch on the amber
+ light.
+
+----------- Rung 2 Controls ------------
+NOCNOCLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 2 Types -------------
+  1  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 2 Indexes ------------
+  0  1  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 2 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 2 ---------------
+While the red and amb
+er lights are on, run
+ a timer.
+
+----------- Rung 3 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONLAT
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 3 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 3 Indexes ------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 3 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 3 ---------------
+When the timer is don
+e, unlatch the red an
+d amber lights and la
+tch on the green ligh
+t.
+
+----------- Rung 4 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 4 Types -------------
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 4 Indexes ------------
+  2  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 4 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 4 ---------------
+While the green light
+ is on, run a timer.
+
+----------- Rung 5 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 5 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 5 Indexes ------------
+  3  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 5 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 5 ---------------
+When the timer is don
+e, unlatch the green 
+light and latch on th
+e amber light.
+
+----------- Rung 6 Controls ------------
+NOCNCCLNKLNKLNKLNKLNKLNKLNKODT
+NONNONNONNONNONNONNONNONNONTBT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 6 Types -------------
+  1  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 6 Indexes ------------
+  1  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  4
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 6 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 6 ---------------
+While the amber light
+ is on on its own, ru
+n a timer.
+
+----------- Rung 7 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NCCNCCNCCNONNONNONNONNONNONLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 7 Types -------------
+  9  0  0  0  0  0  0  0  0  0
+  1  1  1  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 7 Indexes ------------
+  4  0  0  0  0  0  0  0  0  1
+  0  1  2  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 7 Links -------------
+STATHRTHRBRATHRTHRTHRTHRTHRBRAFIN
+STATHRTHRRIGNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 7 ---------------
+When done, or no ligh
+ts on (initial condit
+ion), unlatch the amb
+er light (no effect i
+n initial condition) 
+and latch on the red 
+light.
+
+--------------- Timer 1 ----------------
+5000
+
+-------------- OnDelay 1 ---------------
+
+--------------- Timer 2 ----------------
+5000
+
+-------------- OnDelay 2 ---------------
+
+--------------- Timer 3 ----------------
+5000
+
+-------------- OnDelay 3 ---------------
+
+--------------- Timer 4 ----------------
+5000
+
+-------------- OnDelay 4 ---------------
+
+----------- Output 0 Comment -----------
+Red Light
+
+----------- Output 1 Comment -----------
+Amber Light
+
+----------- Output 2 Comment -----------
+Green Light
+
