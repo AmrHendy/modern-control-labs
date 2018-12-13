@@ -7,7 +7,7 @@
 - OP0 : Belt Conveyor Motor
 - OP1 : Reject Solenoid
 
-# For Push Buttons :
+## For Push Buttons :
 - IP2 : for the system on
 - IP3 : for the system off
 - F0 : Flag indecates the system state
