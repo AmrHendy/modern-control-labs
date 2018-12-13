@@ -1,1 +1,24 @@
 # Traffic Signal Control
+- M0: A flag that is initially set to zero in order to start the first phase in the N/S round, as it starts the timer0 (i.e. starting count 6 seconds)
+- T0: Represents timer0 which indicates the end of phase one and the start of phase 2 (i.e. starting count 2 seconds)
+- M1, M2: are internal flags to control \y02 and y3 respectively
+- T0: represents Timer0 (count 6 seconds)
+- Y1: set to one in ”South Amber” case
+- Y2: set to one in ”South Green” case
+- Y3: set to one in ”West Red” case
+- T1: Output of timer1, it ends the second state, and starts the third one, starting to count 6 seconds.
+- T2: Output of timer2, it ends the third state, and starts the fourth one, starting to count 2 seconds.
+- M3: an internal flag, to control Y5 output.
+- T2: represents Timer2 (count 2 seconds)
+- T3: represents Timer3 (count 2 seconds), upon its end, a system reset is done.
+- Y0: set to one in ” South Red” case
+- Y4: set to one in ” West Green” case
+- Y5: set to one in ”West Amber” case
+- T3: Output of timer3, it ends the process, and starts it again from begin
+- X2: Detector of Vehicles in the south which do the same as reset the system.
+- X3: Detector of Vehicles in the north which do the same as reset the system.
+- Y0: the output of south or north is red which make the people to pass.
+- Y7: if the signal of people is green then don’t open red.
+- M0: the memory reg of the first state of the system
+- Y7: set to one in ” Crossing green” case
+- Y6: set to one in ” Crossing red” case
