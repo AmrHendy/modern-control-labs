@@ -1,0 +1,75 @@
+--------------- Control ----------------
+I/O Monitor
+
+----------- Rung 0 Controls ------------
+NOCNOCNCCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 0 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 0 Indexes ------------
+  2  0  1  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 0 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 1 Controls ------------
+NOCNOCLNKLNKLNKLNKLNKLNKLNKOUT
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 1 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 1 Indexes ------------
+  2  1  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 1 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 2 Controls ------------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 2 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 2 Indexes ------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 2 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+

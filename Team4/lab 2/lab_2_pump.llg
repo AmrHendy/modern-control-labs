@@ -1,0 +1,200 @@
+--------------- Control ----------------
+I/O Monitor
+
+----------- Rung 0 Controls ------------
+LNKNOCLNKNCCLNKLNKLNKLNKLNKOUT
+LNKNOCLNKNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 0 Types -------------
+  0  0  0  9  0  0  0  0  0  0
+  0  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 0 Indexes ------------
+  0  0  0  1  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 0 Links -------------
+STATHRTHRBRATHRTHRTHRTHRTHRTHRFIN
+STATHRTHRRIGNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 1 Controls ------------
+NOCLNKNCCNCCNOCLNKLNKLNKLNKOUT
+NOCLNKNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 1 Types -------------
+  0  0  9  0  1  0  0  0  0  1
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 1 Indexes ------------
+  1  0  1  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 1 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 2 Controls ------------
+NOCNOCLNKLNKLNKLNKLNKLNKLNKODT
+NOCNONNONNONNONNONNONNONNONTBT
+NOCNONNONNONNONNONNONNONNONNON
+NOCNONNONNONNONNONNONNONNONNON
+
+------------- Rung 2 Types -------------
+  2  1  0  0  0  0  0  0  0  0
+  1  0  0  0  0  0  0  0  0  0
+  1  0  0  0  0  0  0  0  0  0
+  1  0  0  0  0  0  0  0  0  0
+
+------------ Rung 2 Indexes ------------
+  0  0  0  0  0  0  0  0  0  1
+  3  0  0  0  0  0  0  0  0  1
+  4  0  0  0  0  0  0  0  0  0
+  5  0  0  0  0  0  0  0  0  0
+
+------------- Rung 2 Links -------------
+STABRATHRTHRTHRTHRTHRTHRTHRBRAFIN
+STAFINNONNONNONNONNONNONNONLEFFIN
+STAFINNONNONNONNONNONNONNONNONNON
+STARIGNONNONNONNONNONNONNONNONNON
+
+----------- Rung 3 Controls ------------
+NCCNCCNOCLNKLNKLNKLNKLNKLNKOUT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 3 Types -------------
+  1  0  1  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 3 Indexes ------------
+  2  2  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 3 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 4 Controls ------------
+NCCNCCNOCNOCLNKLNKLNKLNKLNKOUT
+NOCNCCLNKNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 4 Types -------------
+  1  0  0  1  0  0  0  0  0  0
+  1  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 4 Indexes ------------
+  1  3  2  0  0  0  0  0  0  2
+  2  3  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 4 Links -------------
+STATHRTHRBRATHRTHRTHRTHRTHRTHRFIN
+STATHRTHRRIGNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 5 Controls ------------
+NOCNOCNOCLNKLNKLNKLNKLNKLNKOUT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 5 Types -------------
+  0  0  1  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 5 Indexes ------------
+  2  3  0  0  0  0  0  0  0  3
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 5 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 6 Controls ------------
+NCCNOCNOCLNKLNKLNKLNKLNKLNKOUT
+NOCNCCNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 6 Types -------------
+  0  1  1  0  0  0  0  0  0  0
+  0  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 6 Indexes ------------
+  4  1  0  0  0  0  0  0  0  4
+  4  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 6 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+----------- Rung 7 Controls ------------
+NCCNOCNOCLNKLNKLNKLNKLNKLNKOUT
+NOCNCCNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 7 Types -------------
+  0  1  1  0  0  0  0  0  0  0
+  0  1  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 7 Indexes ------------
+  5  2  0  0  0  0  0  0  0  5
+  5  2  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 7 Links -------------
+STATHRBRATHRTHRTHRTHRTHRTHRTHRFIN
+STATHRRIGNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+--------------- Timer 1 ----------------
+3000
+
+-------------- OnDelay 1 ---------------
+
